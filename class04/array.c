@@ -41,7 +41,39 @@ int main()
         sum += B[i];
     }
 
-    printf("%d\n",sum);
+    printf("%d\n", sum);
+
+    // gta v ---->
+    /*
+
+            class character{
+
+                    fun movement(){
+                            .....
+                    }
+
+                    fun speaking(){
+                            .....
+                    }
+
+                    fun jumping(){
+                            .....
+                    }
+            }
+
+            class car{
+                    fun movement(){
+                        .......
+                    }
+
+            }
+
+            character.movement()
+            
+            car.movement()
+
+
+    */
 
     return 0;
 }
