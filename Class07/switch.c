@@ -3,6 +3,7 @@
 int main()
 {
     char ch = 'm';
+    int a = 1;
     switch (ch)
     {
     case 'a':
